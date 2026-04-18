@@ -63,3 +63,4 @@ Swin-HAFNet is the transformer model proposed in the original BRISC 2025 paper a
 - **scSE attention** — spatial and channel squeeze-excitation in the decoder for better feature recalibration
 - **SWA** — stochastic weight averaging from epoch 50 onward for better generalization
 - **Custom combined loss** — designed specifically for the challenges of medical image segmentation
+  
